@@ -1,0 +1,6 @@
+{
+  "creation_type": "channels",
+  "is_public": true,
+  "channels_per_account": 2,
+  "note": "Подготовьте списки названий, usernames и описаний заранее, чтобы запускать создание пакетно."
+}
