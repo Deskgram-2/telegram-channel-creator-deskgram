@@ -40,6 +40,14 @@
 4. При необходимости задайте оформление и первое сообщение.
 5. Запустите задачу и контролируйте результат по логам.
 
+## Что часто идет после создания площадок
+
+- [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram), если новые группы и каналы сразу нужны под рост аудитории;
+- [Создание ботов](https://github.com/Deskgram-2/telegram-bot-creator-deskgram), если площадки входят в более широкую Telegram-инфраструктуру;
+- [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram), если нужно связать созданные сущности с конкретной рабочей сеткой;
+- [Настройки](https://github.com/Deskgram-2/telegram-automation-settings-deskgram), если после развертывания донастраиваются системные параметры;
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram), если вы отслеживаете массовое создание и последующие действия централизованно.
+
 ## Как устроен сценарий
 
 ### Режим подготовки
@@ -76,6 +84,8 @@
 - [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram)
 - [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram)
 - [Создание ботов](https://github.com/Deskgram-2/telegram-bot-creator-deskgram)
+- [Настройки](https://github.com/Deskgram-2/telegram-automation-settings-deskgram)
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram)
 
 ## FAQ
 
