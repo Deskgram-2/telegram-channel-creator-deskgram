@@ -1,13 +1,13 @@
-# Создание Telegram-каналов и групп через Deskgram 2
+﻿# Создание Telegram-каналов и групп через Deskgram 2
 
 Создание каналов и групп в Deskgram 2 помогает массово разворачивать Telegram-инфраструктуру: от публичных и приватных каналов до рабочих чатов с нужными настройками, оформлением и первым контентом. Это хороший модуль, когда нужно строить сеть площадок системно, а не вручную по одной.
 
-[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview)
+[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=ru)
 ## Интерактивный Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fcreate_channels_chats)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fcreate_channels_chats&lang=ru)
 
-Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fcreate_channels_chats)
+Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fcreate_channels_chats&lang=ru)
 
 
 
@@ -103,3 +103,4 @@
 ### Можно ли заранее подготовить структуру названий и usernames?
 
 Да, это как раз один из главных сценариев использования.
+
